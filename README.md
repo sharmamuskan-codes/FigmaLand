@@ -1,4 +1,4 @@
-220110038@hbtu.ac.in/
+FigmaLand/
 ├── index.html              # Main HTML file
 ├── css/
 │   └── style.css          # All CSS styles
