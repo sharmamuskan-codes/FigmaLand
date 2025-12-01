@@ -4,7 +4,7 @@ A pixel-perfect, responsive landing page implementation. Built with pure HTML5, 
 
 ## ✨ Live Demo
 
-🌐 *[View Live Website]*  
+🌐 *[View Live Website]*  https://sharmamuskan-codes.github.io/FigmaLand/  
 
 
 
@@ -155,7 +155,3 @@ While the assignment didn't require mobile responsiveness, the page is built wit
 ### 🚀 Built with passion for frontend excellence
 
 ⭐ **If you like this project, give it a star on GitHub!**
-
-
-*Last updated: December 2024*  
-*Assignment completed for Josh Technology Group*
